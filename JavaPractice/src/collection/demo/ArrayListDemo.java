@@ -3,9 +3,7 @@ package collection.demo;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
-/*
- * use arraylist when 
- */
+
 
 public class ArrayListDemo {
 
